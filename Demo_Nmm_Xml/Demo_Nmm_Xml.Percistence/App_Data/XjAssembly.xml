@@ -1,441 +1,284 @@
-﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml version="1.0" encoding="utf-8"?>
 <Assemblies xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
-  
   <Assembly>
     <Id>1</Id>
     <Name>Flasher Lights</Name>
     <Description>Where you sit</Description>
     <Image>flasherLight.gif</Image>
     <NoOfParts>28</NoOfParts>
-    <HowItWorks></HowItWorks>
-      <Parts>
-        <part1></part1>
-        <part2></part2>
-        <part3></part3>
-      </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>2</Id>
     <Name>Fuel Tank</Name>
-    <Description></Description>
+    <Description />
     <Image>tank.gif</Image>
     <NoOfParts>31</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>3</Id>
     <Name>Frame</Name>
-    <Description></Description>
+    <Description />
     <Image>frame.gif</Image>
     <NoOfParts>8</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>4</Id>
     <Name>Front Fork</Name>
-    <Description></Description>
+    <Description />
     <Image>frontFork.gif</Image>
     <NoOfParts>26</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>5</Id>
     <Name>Front Brake Caliper</Name>
-    <Description></Description>
+    <Description />
     <Image>frntBrakeCaliper.gif</Image>
     <NoOfParts>17</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>6</Id>
     <Name>Front Master Cylinder</Name>
-    <Description></Description>
+    <Description />
     <Image>front-master-cylinder.gif</Image>
     <NoOfParts>18</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>7</Id>
     <Name>Front Wheel</Name>
-    <Description></Description>
+    <Description />
     <Image>frntWheel.gif</Image>
     <NoOfParts>18</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>8</Id>
     <Name>Handle Switch Lever</Name>
-    <Description></Description>
+    <Description />
     <Image>handle-switch-lever.gif</Image>
     <NoOfParts>26</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>9</Id>
     <Name>Handlebar Cable</Name>
-    <Description></Description>
+    <Description />
     <Image>handlebar-cable.gif</Image>
     <NoOfParts>16</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>10</Id>
     <Name>Headlight</Name>
-    <Description></Description>
+    <Description />
     <Image>headlight.gif</Image>
     <NoOfParts>30</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>11</Id>
     <Name>Intake</Name>
-    <Description></Description>
+    <Description />
     <Image>intake.gif</Image>
     <NoOfParts>28</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>12</Id>
     <Name>Middle Drive Gear</Name>
-    <Description></Description>
+    <Description />
     <Image>middle-drive-gear.gif</Image>
     <NoOfParts>20</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>13</Id>
     <Name>Oil Cleaner</Name>
-    <Description></Description>
+    <Description />
     <Image>oilCleaner.gif</Image>
     <NoOfParts>19</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>14</Id>
     <Name>Oil Pump</Name>
-    <Description></Description>
+    <Description />
     <Image>oilPump.gif</Image>
     <NoOfParts>10</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>15</Id>
     <Name>Pickup Goil Governor</Name>
-    <Description></Description>
+    <Description />
     <Image>pickup-coil-governor.gif</Image>
     <NoOfParts>12</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>16</Id>
     <Name>Rear Arm Suspension</Name>
-    <Description></Description>
+    <Description />
     <Image>rear-arm-suspension.gif</Image>
     <NoOfParts>27</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>17</Id>
     <Name>Rear Wheel</Name>
-    <Description></Description>
+    <Description />
     <Image>rearWheel.gif</Image>
     <NoOfParts>34</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>18</Id>
     <Name>Seat</Name>
     <Description>Black leather bound</Description>
     <Image>seat.gif</Image>
     <NoOfParts>11</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>19</Id>
     <Name>Shift Cam Fork</Name>
-    <Description></Description>
+    <Description />
     <Image>shift-cam-fork.gif</Image>
     <NoOfParts>14</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>20</Id>
     <Name>Shift Shaft Pedal</Name>
-    <Description></Description>
+    <Description />
     <Image>shift-shaft-pedal.gif</Image>
     <NoOfParts>13</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>21</Id>
     <Name>Side Cover Tool</Name>
-    <Description></Description>
+    <Description />
     <Image>side-cover-too.gif</Image>
     <NoOfParts>30</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>22</Id>
     <Name>Speedometer Tachometer</Name>
-    <Description></Description>
+    <Description />
     <Image>speedometer-tachometer.gif</Image>
     <NoOfParts>32</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>23</Id>
     <Name>Stand Footrest</Name>
-    <Description></Description>
+    <Description />
     <Image>stand-footrest.gif</Image>
     <NoOfParts>37</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>24</Id>
     <Name>Starting Cluch</Name>
-    <Description></Description>
+    <Description />
     <Image>starting-clutch.gif</Image>
     <NoOfParts>24</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>25</Id>
     <Name>Starting Motor</Name>
-    <Description></Description>
+    <Description />
     <Image>starting-motor.gif</Image>
     <NoOfParts>14</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>26</Id>
     <Name>Steering</Name>
-    <Description></Description>
+    <Description />
     <Image>steering.gif</Image>
     <NoOfParts>25</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>27</Id>
     <Name>Tachometer Gear</Name>
-    <Description></Description>
+    <Description />
     <Image>tachometer-gear.gif</Image>
     <NoOfParts>7</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>28</Id>
     <Name>Taillightl</Name>
-    <Description></Description>
+    <Description />
     <Image>tailLight.gif</Image>
     <NoOfParts>17</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>29</Id>
     <Name>Top End Gasket kit</Name>
-    <Description></Description>
-    <Image></Image>
-    <NoOfParts></NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Description />
+    <Image />
+    <NoOfParts />
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>30</Id>
     <Name>Transmission</Name>
-    <Description></Description>
+    <Description />
     <Image>trans.gif</Image>
     <NoOfParts>32</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>31</Id>
     <Name>Valve</Name>
-    <Description></Description>
+    <Description />
     <Image>valve.gif</Image>
     <NoOfParts>10</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>32</Id>
     <Name>exhaust</Name>
@@ -443,55 +286,35 @@
     <Image>exhaust.gif</Image>
     <NoOfParts>21</NoOfParts>
     <HowItWorks>Your engine and exhaust system actually are designed to work together. It gets very technical and the practical application of how it all works includes things like reflected pressure waves. Suffice to say that without an exhaust connected to your engine, you’d be introducing  air directly into the system in the wrong direction  through the exhaust ports (consider how much would enter when riding at speed) which would throw everything out of wack.</HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>33</Id>
     <Name>Electricl1</Name>
-    <Description></Description>
-    <Image></Image>
-    <NoOfParts></NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Description />
+    <Image />
+    <NoOfParts />
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>34</Id>
     <Name>Electrical2</Name>
     <Description>elecrtical wiring for ignition</Description>
     <Image>elec1.gif</Image>
     <NoOfParts>37</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>35</Id>
     <Name>Electrical2</Name>
     <Description>elecrtical wiring for main steering, flashers and lights</Description>
     <Image>elec2.gif</Image>
-    <NoOfParts></NoOfParts>
+    <NoOfParts />
     <HowItWorks>25</HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>36</Id>
     <Name>Drive Shaft</Name>
@@ -499,13 +322,8 @@
     <Image>drive-shaft.gif</Image>
     <NoOfParts>44</NoOfParts>
     <HowItWorks>The shaft effect, also known as elevator effect or shaft jacking, is a phenomenon occurring in shaft-drive motorcycles. This effect occurs because the acceleration being applied to the rear wheel creates a reactive force on the drive shaft.</HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>37</Id>
     <Name>Cylinder Head</Name>
@@ -513,27 +331,17 @@
     <Image>cylinder-head.gif</Image>
     <NoOfParts>20</NoOfParts>
     <HowItWorks>The design of the cylinder head is key to the performance and efficiency of the internal combustion engine, as the shape of the combustion chamber, inlet passages and ports (and to a lesser extent the exhaust) determines a major portion of the volumetric efficiency and compression ratio of the engine.</HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>38</Id>
     <Name>Cylinder</Name>
     <Description>A cylinder is the central working part of a reciprocating engine or pump, the space in which a piston travels. Multiple cylinders are commonly arranged side by side in a bank, or engine block, which is typically cast from aluminum or cast iron before receiving precision machine work</Description>
     <Image>cylinder.gif</Image>
     <NoOfParts>8</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>39</Id>
     <Name>Crankshaft Piston</Name>
@@ -541,122 +349,26 @@
     <Image>crankshaft-piston.gif</Image>
     <NoOfParts>11</NoOfParts>
     <HowItWorks>The distance the axis of the crank throws from the axis of the crankshaft determines the piston stroke measurement, and thus engine displacement. A common way to increase the low-speed torque of an engine is to increase the stroke, sometimes known as "shaft-stroking</HowItWorks>
-    <Parts>
-      <part1></part1>
-      <part2></part2>
-      <part3></part3>
-    </Parts>
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>40</Id>
     <Name>Crankcase Cover</Name>
-    <Description></Description>
+    <Description />
     <Image>CRANKCASECOVER.gif</Image>
     <NoOfParts>35</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1>Oil Pump Cover</part1>
-      <part2>Gasket Oil Pump Cover 1</part2>
-      <part3>Bind Screw (j17)</part3>
-      <part4>Generator Cover</part4>
-      <part5>Gasket 1</part5>
-      <part6>Bolt 4h7)</part6>
-      <part7>Crankcase Cover 1</part7>
-      <part8>Gasket Crankcase Cover 1</part8>
-      <part9>Pin  Dowel</part9>
-      <part10>Bolt (2h7)</part10>
-      <part11>Bolt (3j3)</part11>
-      <part12>Pipe Breather 2</part12>
-      <part13>Pipe Breather 1</part13>
-      <part14>Clip (371)</part14>
-      <part15>Clip</part15>
-      <part16>Breather 1</part16>
-      <part17>Gasket</part17>
-      <part18>Screw Pan Head</part18>
-      <part19>Breather 2</part19>
-      <part20>Gasket</part20>
-      <part21>Screw Pan Head</part21>
-      <part22>Crankcase Cover 2</part22>
-      <part23>Oil Pump Cover</part23>
-      <part24>Gasket Crankcase Cover 2</part24>
-      <part25>Pin  Dowel</part25>
-      <part26>Bolt (2h7)</part26>
-      <part27>Bolt (3j3)</part27>
-      <part28>Cover Cap</part28>
-      <part29>Ring Rubber</part29>
-      <part30>Grommet</part30>
-      <part31>Washer (4h7)</part31>
-      <part32>Screw Pan Head</part32>
-      <part33>Gauge Level</part33>
-      <part34>Oil Plug</part34>
-      <part35>O-ring (1kt)</part35>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>41</Id>
     <Name>Crankcase</Name>
     <Description>A crankcase is the housing for the crankshaft in a reciprocating internal combustion engine. The enclosure forms the largest cavity in the engine and is located below the cylinder(s), which in a multicylinder engine is usually integrated into one or several cylinder blocks.</Description>
     <Image>crankcase.gif</Image>
     <NoOfParts>49</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1>Crankcase Assy</part1>
-      <part2>Nozzle 1</part2>
-      <part3>Dowel P1n</part3>
-      <part4>Dowel Pin</part4>
-      <part5>Collar (1l9)</part5>
-      <part6>O-ring (1l9)</part6>
-      <part7>Bolt Cylinder Holding 4</part7>
-      <part8>Bolt Cylinder Holding 3</part8>
-      <part9>Bolt Stud (4h7)</part9>
-      <part10>Bolt Cylinder Holding 3</part10>
-      <part11>Bolt Cylinder Holding 4</part11>
-      <part12>P1n Dowel</part12>
-      <part13>O-ring 371</part13>
-      <part14>Plug (4h7)</part14>
-      <part15>Bolt Based Head 834167770000</part15>
-      <part16>Washer Plate 3411117500</part16>
-      <part17>Bolt, Flange (4h7)</part17>
-      <part18>Washer Plate (33n)</part18>
-      <part19>Flange Bolt (4h7)</part19>
-      <part20>Flange Bolt (4h7)</part20>
-      <part21>Flange Bolt (4h7)</part21>
-      <part22>Flange Bolt 4h7</part22>
-      <part23>Flange Bolt (4h7)</part23>
-      <part24>Flange Bolte (4h7)</part24>
-      <part25>Flange Bolt (4a0)</part25>
-      <part26>Flange Bolt (2h7)</part26>
-      <part27>Flange Bolt (4h7)</part27>
-      <part28>Bearing Cover Plate 1</part28>
-      <part29>Bearing Cover Plater 2</part29>
-      <part30>Screw (4h7)</part30>
-      <part31>Housing Bearing 1</part31>
-      <part32>Flat Head Screw</part32>
-      <part33>O-ring</part33>
-      <part34>Nozzle</part34>
-      <part35>O-ring 11m</part35>
-      <part36>Housing Bearing 2</part36>
-      <part37>O-ring</part37>
-      <part38>Bolt (3j3)</part38>
-      <part39>Grommet</part39>
-      <part40>Plug</part40>
-      <part41>O Ring(664)</part41>
-      <part42>Damper Engine Mount 3</part42>
-      <part43>Spacer, Engine Mount</part43>
-      <part44>Engine Mount 1 Damper</part44>
-      <part45>Engine Mount 2 Damper</part45>
-      <part46>Spacer, Engine Mount</part46>
-      <part47>Holder, Clutch Cable</part47>
-      <part48>Bolt, Hexagon Socket (1xl)</part48>
-      <part49>Flange Bolt(4h7)</part49>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>42</Id>
     <Name>Clutch</Name>
@@ -664,128 +376,17 @@
     <Image>clutch.gif</Image>
     <NoOfParts>34</NoOfParts>
     <HowItWorks>On a motorcycle, we pull in the clutch lever in order to disengage the transmission, then slowly let the clutch lever out in order to engage the transmission gears with the engine — and the bike moves under power.</HowItWorks>
-    <Parts>
-      <part1>Clutch Assy</part1>
-      <part2>Primary Driven Gear Comp</part2>
-      <part3>Rod  Push 1</part3>
-      <part4>Bearing Thrust (713)</part4>
-      <part5>Washer Plate (5g3)</part5>
-      <part6>Plate Thrust 1</part6>
-      <part7>Clutch Boss Assy</part7>
-      <part8>Plate Seat</part8>
-      <part9>Spring Clutch Boss</part9>
-      <part10>Plate Clutch1</part10>
-      <part11>Clutch Boss Ring</part11>
-      <part12>Friction Plate</part12>
-      <part13>Plate Pressure 1</part13>
-      <part14>Compression Spring (4h7)</part14>
-      <part15>Washer Plate  (4h7) </part15>
-      <part16>Bolt Flange 24m</part16>
-      <part17>Plate Clutch 2</part17>
-      <part18>Washer Lock (34l)</part18>
-      <part19>Nut 34l</part19>
-      <part20>Push Lever</part20>
-      <part21>Torsion Spring</part21>
-      <part22>Push Lever Axle</part22>
-      <part23>Release Pinion</part23>
-      <part24>Washer (526)</part24>
-      <part25>Circlip (6l2)</part25>
-      <part26>Brg cyl-cal Roller 5g Nt</part26>
-      <part27>Oil Seal 4g0</part27>
-      <part28>Washer 692</part28>
-      <part29>Brg cyl-cal Roller 6g Tm</part29>
-      <part30>Circlip (24h)</part30>
-      <part31>Plate Thrust</part31>
-      <part32>Collar (4h7)</part32>
-      <part33>Spacer 1</part33>
-      <part34>Brg cyl-cal Roller</part34>
-    </Parts>
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>43</Id>
     <Name>Carburetor</Name>
     <Description>The throttle (accelerator) linkage does not directly control the flow of liquid fuel. Instead, it actuates carburetor mechanisms which meter the flow of air being pushed into the engine. The speed of this flow, and therefore its pressure, determines the amount of fuel drawn into the airstream.</Description>
     <Image>carb.gif</Image>
     <NoOfParts>70</NoOfParts>
-    <HowItWorks></HowItWorks>
-    <Parts>
-      <part1>Carburetor Assembly</part1>
-      <part2>Pipe, Starter Connecting</part2>
-      <part3>Connector</part3>
-      <part4>Connector</part4>
-      <part5>Clip</part5>
-      <part6>Rod</part6>
-      <part7>Screw,throttle</part7>
-      <part8>Shaft, Starter Lever</part8>
-      <part9>Bush</part9>
-      <part10>Washer</part10>
-      <part11>Spring,thrtl Stop</part11>
-      <part12>Spring,thrtl Stop</part12>
-      <part13>Spring, Throttle Stop</part13>
-      <part14>Screw,throttle</part14>
-      <part15>Screw, Pan Head (5n9)</part15>
-      <part16>Washer Spring</part16>
-      <part17>Carburetor Asy 1</part17>
-      <part18>Carburetor Asy 2</part18>
-      <part19>Carburetor Asy 3</part19>
-      <part20>Carburetor Asy 4</part20>
-      <part21>B0dy</part21>
-      <part22>Fl0at Chamber</part22>
-      <part23>Diaphragm Assy</part23>
-      <part24>Jet Needle</part24>
-      <part25>Needle Valve Assy</part25>
-      <part26>Bracket,throttle 1</part26>
-      <part27>Bracket</part27>
-      <part28>Float</part28>
-      <part29>Cover Diaphragm</part29>
-      <part30>Cover</part30>
-      <part31>Pin Float</part31>
-      <part32>Gasket Float Chamber</part32>
-      <part33>Plug Drain</part33>
-      <part34>Seat Spring</part34>
-      <part35>Clip</part35>
-      <part36>Clip, Pipe</part36>
-      <part37>Nozzle Main</part37>
-      <part38>Jet Main (#110)</part38>
-      <part39>Jet</part39>
-      <part40>Jet</part40>
-      <part41>Jet Starter</part41>
-      <part42>Jet Main Air</part42>
-      <part43>Jet Pilot Air</part43>
-      <part44>Plunger Starter</part44>
-      <part45>Cap, Plunger</part45>
-      <part46>Cover Plunger Cap</part46>
-      <part47>Lever, Starter 1</part47>
-      <part48>Screw</part48>
-      <part49>Lever,starter 2</part49>
-      <part50>Spring, Plunger</part50>
-      <part51>Spring, Diaphragm</part51>
-      <part52>Spring</part52>
-      <part53>Washer</part53>
-      <part54>Washer</part54>
-      <part55>Screw Pan Head (e56)</part55>
-      <part56>Spring</part56>
-      <part57>Pan Head (713) Screw</part57>
-      <part57>Pan Head (713) Screw</part57>
-      <part58>Spring</part58>
-      <part59>Screw Pan Head e56</part59>
-      <part60>WSpring</part60>
-      <part61>Screw Pan Head</part61>
-      <part62>Spring Ybs67-5 Washer</part62>
-      <part63>Screw, Pan Head (7h3)</part63>
-      <part64>Spring Ybs67-5 Washer</part64>
-      <part65>Screw Pan Head</part65>
-      <part66>Washer (6a1)</part66>
-      <part67>Screw pan Head (646)</part67>
-      <part68>Ybs67-5 Washer Spring</part68>
-      <part69>Plate</part69>
-      <part70>Pan Head Screw</part70>
-    </Parts>
+    <HowItWorks />
+    <Parts />
   </Assembly>
-
-
   <Assembly>
     <Id>44</Id>
     <Name>Camshaft Chain</Name>
@@ -799,32 +400,8 @@
       SOHC stands for single over-head cam, and it means one shaft (via rockers) opens both the intake and exhaust valves. DOHC is double over-head cam, and means one shaft operates the intake valves while a second controls the exhausts.
       DOHC designs allow the highest engine revs, and are typically seen in sportbikes. But they also often complicate valve-adjustment procedures.
     </HowItWorks>
-    <Parts>
-      <part1>Camshaft 1</part1>
-      <part2>Camshaft 2</part2>
-      <part3>Sprocket, Cam Chain </part3>
-      <part4>Bolt, Washer Based Hexagon 1l9</part4>
-      <part5>Chain, Cam Shaft (4h7)</part5>
-      <part6>Joint, Chain (583)</part6>
-      <part7>Guide, Stopper 2</part7>
-      <part8>Case, Chain Tensioner</part8>
-      <part9>Rod, Chain Tensioner</part9>
-      <part10>Spring, Compression (1j7)</part10>
-      <part11>Bolt (1j7) </part11>
-      <part12>Nut</part12>
-      <part13>Washer(526)</part13>
-      <part14>O-ring (26h)</part14>
-      <part15>Damper, Chain 1</part15>
-      <part16>Damper, Chain 2</part16>
-      <part17>Bolt (4h7)</part17>
-      <part18>Nut</part18>
-      <part19>Washer(526)</part19>
-      <part20>O-ring (606)</part20>
-      <part21>Bolt (3j3)</part21>
-      <part22>Gasket, Tensioner Case</part22>
-    </Parts>
+    <Parts />
   </Assembly>
-
   <Assembly>
     <Id>45</Id>
     <Name>AC Generator</Name>
@@ -832,22 +409,5 @@
     <Image>acGen.gif</Image>
     <NoOfParts>13</NoOfParts>
     <HowItWorks>The charging system consists of three main components: the battery, which stores electrical energy for use and acts as a buffer for the bike’s electrical system; the alternator, which creates alternating current to run the bike and charge the battery; and the rectifier, or more commonly rectifier/regulator, which changes or rectifies the alternating current produced by the alternator into direct current so it can be stored in the battery and regulates the amount of current produced to prevent overcharging</HowItWorks>
-    <Parts>
-      <part1>A.c. Generator Assembly</part1>
-      <part2>Rotor Assy</part2>
-      <part3>Brush Holder Assy</part3>
-      <part4>Brush 1</part4>
-      <part5>Brush 2</part5>
-      <part6>Screw, Panhead (4u5)</part6>
-      <part7>Washer, Spring</part7>
-      <part8>Washer, Plate (525)</part8>
-      <part9>Bolt, Washer Based (4h7)</part9>
-      <part10>Screw Pan Head</part10>
-      <part11>Screw Pan Head</part11>
-      <part12>Washer(6a1)</part12>
-      <part13>Washer(526)</part13>
-    </Parts>
   </Assembly>
-  
-
 </Assemblies>

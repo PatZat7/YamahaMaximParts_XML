@@ -43,5 +43,12 @@ textarea {
 }
 
 #crud {
+    min-width: 203px;
+}
+.slider {
     width: 200px;
+}
+
+#slideFilter {
+    float: right;
 }

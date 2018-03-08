@@ -27,10 +27,6 @@ namespace Demo_Nmm_Xml
                       "~/Content/bootstrap.css",
                       "~/Content/lavish-bootstrap.css",
                       "~/Content/site.css"));
-
-            bundles.Add(new ScriptBundle("~/bundles/jqueryui").Include(
-           "~/Scripts/jquery-ui-{version}.js",
-           "~/Scripts/jquery-ui.unobtrusive-{version}.js"));
         }
     }
 }
